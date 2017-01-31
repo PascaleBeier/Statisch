@@ -1,0 +1,2 @@
+# Statisch
+Webpack + Pug = Statisch.
