@@ -1,0 +1,12 @@
+{
+  "name": "Statisch",
+  "version": "1.0.0",
+  "description": "Pug + Webpack = Statisch.",
+  "main": "index.js",
+  "repository": "git@github.com:PascaleBeier/Statisch.git",
+  "author": "Pascale Beier <mail@pascalebeier.de>",
+  "license": "MIT",
+  "dependencies": {
+    "pug": "^2.0.0-beta10"
+  }
+}
